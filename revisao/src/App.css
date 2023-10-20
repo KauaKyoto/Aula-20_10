@@ -1,0 +1,26 @@
+* {
+  background: black;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+}
+
+img {
+  max-width: 500px;
+}
+
+.App {
+  text-align: center;
+}
+
+.titulo-noticia{
+  color: white;
+  font-size: 30px;
+}
+
+.descricao, .categoria{
+  color: white;
+  justify-content: center;
+}
